@@ -1,8 +1,8 @@
-# React + Vite
+# Diego Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Source of Inspiration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [EGATOR](https://buymeacoffee.com/).
+
+As you may have noticed, this portfolio is highly inspired by EGATOR's portfolio because I really liked it, and I also added some elements from Forrest's portfolio. I hope you like this portfolio.. 🙌
