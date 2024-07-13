@@ -5,7 +5,7 @@ import "./Module.css";
 import { useState } from "react";
 
 export const Nav = () => {
-  const [activeNav, setActiveNav] = useState('#')
+  const [activeNav, setActiveNav] = useState("#");
   return (
     <nav>
       <a
@@ -31,8 +31,8 @@ export const Nav = () => {
       </a>
       <a
         href="#proyects"
-        onClick={() => setActiveNav("#")}
-        className={activeNav === "#services" ? "active" : ""}
+        onClick={() => setActiveNav("#proyects")}
+        className={activeNav === "#proyects" ? "active" : ""}
       >
         <RiServiceLine />
       </a>
